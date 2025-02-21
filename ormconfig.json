@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "gerald.dathost.net",
+  "port": 3306,
+  "username": "Z688r2yW6nbaUs-t",
+  "password": "1oSM9sjo4bo",
+  "database": "67af3caf6c96ea76da52cfad",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
